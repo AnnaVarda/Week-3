@@ -22,7 +22,7 @@
 
   @media (max-width: 576px) {
     .name {
-      display:none;
+      font-size: 70px;
   }
 }
 
